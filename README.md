@@ -1,7 +1,6 @@
 # Rick_Rolling_ASCII
 
 
-
 ##  Description
 
 Rick Rolling ASCII is a client-side web application that performs real-time video-to-ASCII art conversion. The system captures frames from a video source, processes them through a pixel analysis pipeline, and renders the output as continuously updating ASCII art in the browser.
